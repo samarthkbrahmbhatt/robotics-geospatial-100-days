@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pystac-client
+planetary-computer
+odc-stac
