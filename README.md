@@ -7,6 +7,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | Day | Project | Domain | Key skills |
 |-----|---------|--------|------------|
 | 01 | [NDVI over Abu Dhabi Eastern Mangroves](day-01-ndvi-mangroves) | Geospatial | Sentinel-2, STAC, NDVI, cloud masking |
+| 02 | [2-link arm forward & inverse kinematics](day-02-arm-kinematics) | Robotics | FK, IK, law of cosines, matplotlib animation |
 
 ## Setup
 
