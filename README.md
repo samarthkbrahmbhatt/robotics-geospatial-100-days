@@ -8,6 +8,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 |-----|---------|--------|------------|
 | 01 | [NDVI over Abu Dhabi Eastern Mangroves](day-01-ndvi-mangroves) | Geospatial | Sentinel-2, STAC, NDVI, cloud masking |
 | 02 | [2-link arm forward & inverse kinematics](day-02-arm-kinematics) | Robotics | FK, IK, law of cosines, matplotlib animation |
+| 03 | [NDWI / MNDWI water mapping, Dubai coast](day-03-ndwi-water) | Geospatial | Water indices, Otsu thresholding, shoreline extraction |
 
 ## Setup
 
