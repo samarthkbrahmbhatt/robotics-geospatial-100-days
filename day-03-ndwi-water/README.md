@@ -39,16 +39,17 @@ Worth remembering: the water area alone looked like a plausible number. It was t
 
 ## Results
 
-<!-- Paste your terminal output here -->
-
-- Scene date:
-- Otsu threshold, NDWI / MNDWI:
-- Water area, NDWI / MNDWI:
-- Pixels where the two indices disagree:
+- Scene date: 2024-06-06, tiles 40RBN + 40RCN mosaicked, 100% box coverage
+- Image: 1635 x 1463 px at 10 m
+- Otsu threshold, NDWI / MNDWI: -0.001 / +0.022
+- Water area, NDWI / MNDWI: 116.95 km² / 116.56 km²
+- The two indices disagree on 2.18% of pixels
 
 ## What I learned
 
-<!-- Write 2 to 3 lines in your own words -->
+The biggest lesson was that a reasonable-looking number does not mean the result is correct. The first water-area estimate seemed possible, and it was only looking at the actual image that exposed that most of the box had no data at all.
+
+I also learned how Otsu's method picks a threshold from the shape of the histogram instead of relying on a value I guess, which is a real improvement on the hard-coded 0.3 I used on Day 1. In theory MNDWI should separate water from built-up surfaces better than NDWI, though on this scene both gave nearly the same total area (116.95 vs 116.56 km²) while still disagreeing on 2.18% of pixels, so the differences cancelled out rather than showing up in the total.
 
 ## Run it
 
