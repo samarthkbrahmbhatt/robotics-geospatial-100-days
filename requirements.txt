@@ -3,3 +3,5 @@ matplotlib
 pystac-client
 planetary-computer
 odc-stac
+scikit-learn
+pillow

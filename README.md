@@ -10,6 +10,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 02 | [2-link arm forward & inverse kinematics](day-02-arm-kinematics) | Robotics | FK, IK, law of cosines, matplotlib animation |
 | 03 | [NDWI / MNDWI water mapping, Dubai coast](day-03-ndwi-water) | Geospatial | Water indices, Otsu thresholding, tile mosaicking |
 | 04 | [PID control of a mass-damper system](day-04-pid-control) | Robotics | PID tuning, anti-windup, step response metrics |
+| 05 | [EuroSAT land cover with a Random Forest](day-05-landcover-rf) | Geospatial + ML | Feature engineering, train/test split, confusion matrix |
 
 ## Setup
 
