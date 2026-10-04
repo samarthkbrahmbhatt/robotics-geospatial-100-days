@@ -13,6 +13,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 05 | [EuroSAT land cover with a Random Forest](day-05-landcover-rf) | Geospatial + ML | Feature engineering, train/test split, confusion matrix |
 | 06 | [A* path planning on a grid map](day-06-astar) | Robotics | A*, Dijkstra, admissible heuristics, priority queues |
 | 07 | [Mangrove change detection, 2018 to 2024](day-07-mangrove-change) | Geospatial | Median compositing, change detection, seasonal matching |
+| 08 | [Pure pursuit path following](day-08-pure-pursuit) | Robotics | Unicycle model, pure pursuit, cross-track error, actuator limits |
 
 ## Setup
 
