@@ -16,6 +16,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 08 | [Pure pursuit path following](day-08-pure-pursuit) | Robotics | Unicycle model, pure pursuit, cross-track error, actuator limits |
 | 09 | [A year of NDVI, four land cover types](day-09-ndvi-timeseries) | Geospatial | xarray time cubes, phenology, separating signal from scatter |
 | 10 | [Kalman filter, GPS and odometry fusion](day-10-kalman) | Robotics | State estimation, sensor fusion, covariance, filter consistency |
+| 11 | [Terrain analysis of the Hajar mountains](day-11-terrain) | Geospatial | DEMs, slope, aspect, hillshade, testing against known answers |
 
 ## Setup
 
