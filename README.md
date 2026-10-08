@@ -17,6 +17,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 09 | [A year of NDVI, four land cover types](day-09-ndvi-timeseries) | Geospatial | xarray time cubes, phenology, separating signal from scatter |
 | 10 | [Kalman filter, GPS and odometry fusion](day-10-kalman) | Robotics | State estimation, sensor fusion, covariance, filter consistency |
 | 11 | [Terrain analysis of the Hajar mountains](day-11-terrain) | Geospatial | DEMs, slope, aspect, hillshade, testing against known answers |
+| 12 | [Occupancy grid mapping from lidar](day-12-occupancy-grid) | Robotics | Inverse sensor model, log odds, Bresenham, sensor ambiguity |
 
 ## Setup
 
