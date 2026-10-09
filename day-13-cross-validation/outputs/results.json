@@ -1,0 +1,40 @@
+{
+  "cv_scores": [
+    0.7925,
+    0.7825,
+    0.805625,
+    0.82,
+    0.803125
+  ],
+  "cv_mean": 0.8007500000000001,
+  "cv_std": 0.012657754540201826,
+  "day05_single_split": 0.809,
+  "best_params": {
+    "max_depth": "None",
+    "max_features": "0.5",
+    "min_samples_leaf": "1"
+  },
+  "best_score": 0.8043750000000001,
+  "tuning_gain_points": 0.36249999999999893,
+  "learning_curve_sizes": [
+    640,
+    1600,
+    3200,
+    4800,
+    6400
+  ],
+  "learning_curve_val": [
+    0.7318749999999999,
+    0.7585000000000001,
+    0.782625,
+    0.793,
+    0.798625
+  ],
+  "learning_curve_train": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ]
+}
