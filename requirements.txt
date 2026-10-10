@@ -3,5 +3,8 @@ matplotlib
 pystac-client
 planetary-computer
 odc-stac
+shapely
 scikit-learn
+scipy
 pillow
+pandas
