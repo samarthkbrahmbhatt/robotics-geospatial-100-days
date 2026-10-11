@@ -20,6 +20,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 12 | [Occupancy grid mapping from lidar](day-12-occupancy-grid) | Robotics | Inverse sensor model, log odds, Bresenham, sensor ambiguity |
 | 13 | [Cross-validating Day 05](day-13-cross-validation) | Geospatial + ML | k-fold CV, learning curves, grid search, signal vs noise |
 | 14 | [Particle filter localisation](day-14-particle-filter) | Robotics | Monte Carlo localisation, likelihood fields, resampling, depletion |
+| 15 | [Land cover map of Abu Dhabi](day-15-landcover-map) | Geospatial + ML | Multispectral classification, spatial autocorrelation, block splits |
 
 ## Setup
 
