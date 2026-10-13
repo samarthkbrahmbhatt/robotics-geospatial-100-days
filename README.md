@@ -22,6 +22,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 14 | [Particle filter localisation](day-14-particle-filter) | Robotics | Monte Carlo localisation, likelihood fields, resampling, depletion |
 | 15 | [Land cover map of Abu Dhabi](day-15-landcover-map) | Geospatial + ML | Multispectral classification, spatial autocorrelation, block splits |
 | 16 | [ICP scan matching](day-16-icp-scan-matching) | Robotics | Kabsch / SVD, local minima, geometric degeneracy, observability |
+| 17 | [Mapping water with radar](day-17-sar-water) | Geospatial | Sentinel-1 SAR, speckle statistics, dB, radar vs optical |
 
 ## Setup
 
