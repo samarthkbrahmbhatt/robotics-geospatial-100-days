@@ -24,6 +24,7 @@ One small build every day, alternating between **geospatial AI / remote sensing*
 | 16 | [ICP scan matching](day-16-icp-scan-matching) | Robotics | Kabsch / SVD, local minima, geometric degeneracy, observability |
 | 17 | [Mapping water with radar](day-17-sar-water) | Geospatial | Sentinel-1 SAR, speckle statistics, dB, radar vs optical |
 | 18 | [Pose graph optimisation and loop closure](day-18-pose-graph) | Robotics | Gauss-Newton on SE(2), gauge freedom, robust kernels |
+| 19 | [Predicting land surface temperature](day-19-lst-regression) | Geospatial + ML | Regression metrics, R-squared vs RMSE, shrinkage to the mean |
 
 ## Setup
 
